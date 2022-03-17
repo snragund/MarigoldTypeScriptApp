@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "./images/dog1.jpg",
+      "eventName": "Köperwelt Berlin facette des Lebens",
+      "date": "09.03.2022",
+      "location": "Berlin"
+    },
+    {
+      "id": 2,
+      "image": "./images/logo192.png",
+      "eventName": "Reservix new event",
+      "date": "09.03.2022",
+      "location": "Frankfurt"
+    },
+    {
+      "id": 3,
+      "image": "./images/logo192.png",
+      "eventName": "Köperwelt Berlin facette des Lebens",
+      "date": "09.03.2022",
+      "location": "München"
+    },
+    {
+      "id": 4,
+      "image": "./images/logo192.png",
+      "eventName": "Köperwelt Berlin facette des Lebens",
+      "date": "09.03.2022",
+      "location": "Frankfurt"
+    },
+    {
+      "id": 5,
+      "image": "./images/dog1.jpg",
+      "eventName": "Köperwelt Berlin facette des Lebens",
+      "date": "09.03.2022",
+      "location": "Berlin"
+    }
+  ]
+}
