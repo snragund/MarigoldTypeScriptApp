@@ -20,6 +20,7 @@ interface TicketCardProps {
   };
 }
 
+// TicketCard Component
 const TicketCard: React.FC<TicketCardProps> = ({ item }) => (
   <Box as={Card} css={{ width: "520px", padding: "none" }}>
     <Columns space="xsmall" verticalAlign="top" horizontalAlign="left">

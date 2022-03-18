@@ -3,6 +3,7 @@ import TicketCard from "./TicketCard";
 import React from "react";
 import { data } from "../database/data";
 
+// TicketCardLayout Component
 export const TicketCardLayout: React.FC = () => (
   <Box height="700px" width="100%">
     {data.map((item) => (
